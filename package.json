@@ -1,0 +1,23 @@
+{
+  "name": "HackTues2.НямаЗначение",
+  "version": "1.0.0",
+  "description": "Организацията на facebook events + форматът на kickstarter + формата за комуникация на slack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoHomey/HackTues2.git"
+  },
+  "author": "NoHomey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoHomey/HackTues2/issues"
+  },
+  "homepage": "https://github.com/NoHomey/HackTues2#readme",
+  "dependencies": {
+    "babel-core": "~5.8.25",
+    "es6-module-loader": "~0.17.7"
+  }
+}
