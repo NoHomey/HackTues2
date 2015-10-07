@@ -1,6 +1,6 @@
 run.$inject = [];
 
-function run($location) {
+function run() {
 }
 
 export var run = run;
