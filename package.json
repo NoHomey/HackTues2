@@ -1,5 +1,5 @@
 {
-  "name": "HackTues2.НямаЗначение",
+  "name": "HackTues2",
   "version": "1.0.0",
   "description": "Организацията на facebook events + форматът на kickstarter + формата за комуникация на slack",
   "main": "client/index.html",
