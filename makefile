@@ -18,4 +18,7 @@ clean:
 	rm -R ./node_modules
 
 unset:
-	rm -R ./client/dependencies
+	rm ./client/dependencies/
+	rm ./client/dependencies/angular-route.js
+	rm ./client/dependencies/browser.js
+	rm ./client/dependencies/es6-module-loader-dev.js
