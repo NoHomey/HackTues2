@@ -17,5 +17,5 @@ clean:
 	rm -R ./bower_components
 	rm -R ./node_modules
 
-unset: clean
+unset:
 	rm -R ./client/dependencies
